@@ -83,8 +83,6 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 Dont forget to give a ⭐️ to this project ... Happy coding!
 
-**🚀 Self-hosted Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
-
 ## License
 
 IDURAR is Free Open Source Released under the GNU Affero General Public License v3.0.
